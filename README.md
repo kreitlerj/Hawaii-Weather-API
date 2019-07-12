@@ -13,7 +13,7 @@ This project takes some Hawaii climate data and performs analysis on it as well 
 
 ## Description
 ### API
-The Hawaii_Weather_API.py file is a simple flask API. Using the Python library [SQLAlchemy](https://www.sqlalchemy.org/), it pull data from an SQLlite file and presents it to the end user in json format.  There are various API routes to retrieve different data.  The routes are listed on the initial page when the flask app opens.
+The Hawaii_Weather_API.py file is a simple flask API. Using the Python library [SQLAlchemy](https://www.sqlalchemy.org/), it pull data from an SQLite file and presents it to the end user in json format.  There are various API routes to retrieve different data.  The routes are listed on the initial page when the flask app opens.
 ### Analysis
 Analysis was performed on Hawaii climate data in the jupyter notebook file.  Pandas was used to format the data while Matplotlib was used to visualize it.  The following plots were made:
 #### 12 Month Precipitation Data
